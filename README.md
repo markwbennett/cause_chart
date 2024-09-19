@@ -7,6 +7,7 @@ The problems:
     - Including the potential challenges established by the State or Court,
     - Especially challenges that the State thinks it has completed, where they have not (e.g. because they have no  idea how to ask a proper commitment question) and the challenges can be defeated or the venirepeople rehabilitated.
  * Helping those helping us with voir dire (who might be interns or less-experienced lawyers) give us meaningful input.
+
 The solution:
 
 At a CLE some years ago, Robert Hirschhorn suggested a cause chart, with the potential reasons for cause at the top and a space for each juror.
